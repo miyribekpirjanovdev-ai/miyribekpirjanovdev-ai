@@ -38,14 +38,6 @@
 
 ---
 
-## 📞 Contact
-
-<p align="center">
-  <a href="https://github.com/USERNAME">GitHub Profile</a>
-</p>
-
----
-
 <p align="center">
   ⭐ Don't forget to follow me!
 </p>
